@@ -1,6 +1,8 @@
 # Web Scraper in Python 🕷️🐍
 
-
+<div align="center">
+  <img src="" alt="Webscraping Pic">
+</div>
 
 Unleash the power of data with "Web Scraper in Python"! 🕷️🐍 This repository hosts a robust web scraper built using Python's "Beautiful Soup" library, designed to extract valuable information from websites effortlessly.
 
