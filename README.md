@@ -41,6 +41,6 @@ Contributions are encouraged! If you have ideas to enhance the scraper or want t
 Questions or suggestions? Reach out to me:
 
 - **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Happy scraping! May your data flow freely! 🌐📊
