@@ -16,7 +16,7 @@ Unleash the power of data with "Web Scraper in Python"! 🕷️🐍 This reposit
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Web-Scraper-in-Python.git
+    git clone https://github.com/Syed-Abid/Web-Scraper-in-Python.git
     ```
 
 2. **Install dependencies:**
@@ -35,10 +35,6 @@ Contributions are encouraged! If you have ideas to enhance the scraper or want t
 
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
