@@ -11,6 +11,7 @@ Unleash the power of data with "Web Scraper in Python"! 🕷️🐍 This reposit
 - **Simple and Efficient:** A beginner-friendly Python web scraper with a clean and intuitive design.
 - **Beautiful Soup:** Harness the power of Beautiful Soup for seamless HTML parsing.
 - **Versatile Use:** Easily adaptable for various websites and data extraction requirements.
+- **Request Library:** 
 
 ## 🛠️ Setup and Usage
 
