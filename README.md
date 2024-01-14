@@ -14,7 +14,7 @@ Unleash the power of data with "Web Scraper in Python"! 🕷️🐍 This reposit
 - **Request Library:** 
 
 ## Code
-- You can find the web scrapig from here:
+- You can find the web scraping code from here:
   [Code Link](https://github.com/Syed-Abid/Web-Scraper-in-Python/blob/main/main.py)
 ## 🛠️ Setup and Usage
 
